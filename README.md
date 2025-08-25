@@ -1,1 +1,1 @@
-Minecraft Economy Service
+Minecraft Economy Backend Service
